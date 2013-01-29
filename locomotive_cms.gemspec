@@ -33,7 +33,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'custom_fields',                   '~> 2.1.0.rc2'
 
-  s.add_dependency 'kaminari',                        '~> 0.13.0'
+  s.add_dependency 'kaminari',                        '~> 0.14.0'
 
   s.add_dependency 'haml',                            '~> 3.1.7'
   s.add_dependency 'jquery-rails',                    '~> 2.2.0'
