@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'rails',                           '~> 3.2.11'
 
-  s.add_dependency 'devise',                          '~> 2.1.2'
+  s.add_dependency 'devise',                          '~> 2.2.2'
   s.add_dependency 'devise-encryptable',              '~> 0.1.1'
   s.add_dependency 'cancan',                          '1.6.7'
 
@@ -36,7 +36,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'kaminari',                        '~> 0.13.0'
 
   s.add_dependency 'haml',                            '~> 3.1.7'
-  s.add_dependency 'jquery-rails',                    '~> 2.1.4'
+  s.add_dependency 'jquery-rails',                    '~> 2.2.0'
   s.add_dependency 'rails-backbone',                  '~> 0.7.2'
   s.add_dependency 'codemirror-rails',                '~> 2.21'
   s.add_dependency 'locomotive-tinymce-rails',        '~> 3.4.7.4'
