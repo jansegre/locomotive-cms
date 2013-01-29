@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'rails',                           '~> 3.2.11'
 
-  s.add_dependency 'devise',                          '~> 2.2.2'
+  s.add_dependency 'devise',                          '~> 2.1.2'
   s.add_dependency 'devise-encryptable',              '~> 0.1.1'
   s.add_dependency 'cancan',                          '1.6.7'
 
